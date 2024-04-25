@@ -7,36 +7,8 @@
 .cabeçalho {
     background-color: #450b1e;
     padding: 4em;
-    list-style: none;
+   
 
-}
-
-.cabeçalho h1 {
-    color: #feffd4;
-}
-
-.cabeçalho i {
-    display: flex;
-    text-align: left;
-    font-size: 3em;
-    color: #feffd4;
-    margin-top: 20px ;
-    margin-left: 150px ;
-}
-
-.cabeçalho nav {
-    justify-content: space-around;
-    margin-top: -23px;
-}
-
-.cabeçalho nav li {
-    display: inline;
-    list-style: none;
-    color: #feffd4;
-    padding: 1em;
-    font-size: 1.35em;
-    margin-bottom: 20px;
-    font-weight: 900;
 }
 
 
