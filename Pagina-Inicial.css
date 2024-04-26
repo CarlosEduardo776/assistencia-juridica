@@ -7,10 +7,37 @@
 .cabeçalho {
     background-color: #450b1e;
     padding: 4em;
-   
-
+    display: flex;
+    align-items: center;
 }
 
+.cabeçalho img {
+width: 120px;
+height: 120px;
+padding: 10px;
+}
+
+.cabeçalho h1 {
+ color: #feffd4;
+padding: 10px;
+font-size: 30px;
+text-align: center;
+margin-left: 250px;
+}
+
+.cabeçalho nav {
+    margin-top: 5px;
+    padding: 10px;
+    margin-left: 100px;
+}
+
+.cabeçalho nav li {
+    list-style: none;
+    display: inline;
+    color: #feffd4;
+    font-size: 18px;
+    padding: 7px;
+}
 
 
 
