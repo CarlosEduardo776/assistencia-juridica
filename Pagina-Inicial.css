@@ -39,14 +39,97 @@ margin-left: 250px;
     padding: 7px;
 }
 
+.Imagem-Inicial img{
+    width: 90rem;
+    height: 55rem;
+}
 
+.sobre {
+    padding: 10rem;
+    background: linear-gradient(180deg, rgba(186,24,77,0.8295693277310925) 33%, rgba(69,11,30,1) 100%), url(imagens/Fundo-Formulário.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
+}   
 
+.Quem-somos {
+    padding: 5rem;
+    font-size: 2em;
+    line-height: 70px;
+    text-align: justify;
+}
 
+.Quem-somos h2 {
+    text-align: center;
+}
+.Quem-somos a button {
+    width: 150px;
+    height: 2rem;
+    border-radius: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+.line {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.Serviços {
+    padding: 5rem;
+    font-size: 2em;
+    line-height: 70px;
+    text-align: justify;
+}
+
+.Serviços h2 {
+    text-align: center;
+}
+
+.Serviços a button {
+    width: 150px;
+    height: 2rem;
+    border-radius: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+.FEEDBACK {
+    padding: 5rem;
+    font-size: 2em;
+    line-height: 70px;
+    text-align: justify;   
+}
+
+.FEEDBACK h2 {
+    text-align: center;
+}
 
 footer {
     padding: 3rem;
     background: #360616;
+}
+
+footer img {
+    width: 10em;
+    margin-top: 20px;
+}
+
+footer div nav {
+    margin-top: 5px;
+    padding: 10px;
+    margin-left: 100px;
+}
+
+footer nav li {
+    list-style: none;
+    color: #feffd4;
+    font-size: 18px;
+    padding: 7px;
+    display: flex;
+    justify-content: space-evenly;
 }
 /* .color1 { #c5b89f };
 .color2 { #feffd4 };
