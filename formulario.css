@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-image: url(imagens/Fundo-Formulário.png);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.caixa {
+    width: 380px;
+    height: 370px;
+    margin: 190px auto;
+    box-shadow: 7px 14px 23px black;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.cadastrar {
+    background-color: #450b1e;
+    color: white;
+    padding: 30px;
+}
+
+.linha {
+    background-color: rgba(128, 128, 128, 0.801);
+    width: 230px;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.enviar {
+    margin-top: 10px;
+}
+
+.select input {
+    border-radius: 12px;
+}
+
+.enviar input {
+width: 150px;
+height: 25px;
+border-radius: 12px;
+font-family: 'Times New Roman', Times, serif;
+}
+
+.enviar input:hover {
+ width: 200px;
+ height: 30px;
+background-color: gray;
+color: white;
+transition: 0.5s;
+font-family: 'Times New Roman', Times, serif;
+border-radius: 12px;
+cursor: pointer;
+
+}
+
+.ddd {
+    font-family: 'Times New Roman', Times, serif;
+    height: 23px;
+    border-radius: 12px;
+}
+
+form input { 
+    border-radius: 12px;
+    width: 200px;
+    height: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
