@@ -2,58 +2,80 @@
     margin: 0;
     padding: 0;
 }
+
 body {
     background-image: url(imagens/Fundo-Formulário.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
 }
+
 .caixa {
     width: 380px;
-    height: 370px;
+    height: 310px;
     margin: 190px auto;
     box-shadow: 7px 14px 23px black;
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
 }
-.cadastrar {
-    background-color: #450b1e;
-    color: white;
-    padding: 30px;
-}
 
-.linha {
+.caixa h2 {
+    margin-bottom: 20px;
+    font-size: 2.5em;
+    color: white;
+}
+.caixa hr {
     background-color: rgba(128, 128, 128, 0.801);
     width: 230px;
     color: white;
-    margin-bottom: 20px;
+    margin: 0 auto;
 }
-
+form {
+    margin-top: 25px;
+    color: white;
+}
 .enviar {
     margin-top: 10px;
 }
 
-.select input {
+form input {
+    width: 150px;
+    height: 20px;
+    border-radius: 12px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+form a button {
+    margin-top: 15px;
+}
+
+form a button {
+    border-radius: 12px;
+    width: 200px;
+    height: 25px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.select {
     border-radius: 12px;
 }
 
 .enviar input {
-width: 150px;
-height: 25px;
-border-radius: 12px;
-font-family: 'Times New Roman', Times, serif;
+    width: 150px;
+    height: 25px;
+    border-radius: 12px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .enviar input:hover {
- width: 200px;
- height: 30px;
-background-color: gray;
-color: white;
-transition: 0.5s;
-font-family: 'Times New Roman', Times, serif;
-border-radius: 12px;
-cursor: pointer;
-
+   
+    background-color: rgba(150, 147, 147, 0.829);
+    color: white;
+    transition: 0.5s;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 12px;
+    cursor: pointer;
 }
 
 .ddd {
@@ -61,12 +83,11 @@ cursor: pointer;
     height: 23px;
     border-radius: 12px;
 }
-form a {
-   
-}
-form input { 
+
+a button {
+    width: 150px;
+    height: 2rem;
     border-radius: 12px;
-    width: 200px;
-    height: 20px;
     font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
 }
