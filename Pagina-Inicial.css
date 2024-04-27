@@ -96,6 +96,11 @@ margin-left: 190px;
     text-align: center;
 }
 
+.Serviços .span {
+    color: #360616;
+    font-weight: 900;
+}
+
 .Serviços a button {
     width: 150px;
     height: 2rem;
