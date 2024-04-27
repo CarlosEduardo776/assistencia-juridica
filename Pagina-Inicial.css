@@ -12,35 +12,41 @@
 }
 
 .cabeçalho img {
-width: 120px;
-height: 120px;
+width: 140px;
+height: 140px;
 padding: 10px;
 }
 
 .cabeçalho h1 {
  color: #feffd4;
 padding: 10px;
-font-size: 30px;
+font-size: 50px;
 text-align: center;
-margin-left: 250px;
+margin-left: 190px;
 }
 
 .cabeçalho nav {
     margin-top: 5px;
     padding: 10px;
     margin-left: 100px;
+    
 }
 
+.cabeçalho nav ul {
+    display: flex;
+}
+.cabeçalho nav ul a {
+    text-decoration: none;
+    color: #feffd4;
+}
 .cabeçalho nav li {
     list-style: none;
-    display: inline;
-    color: #feffd4;
-    font-size: 18px;
-    padding: 7px;
+    margin-left: 25px;
+    text-align: center;
 }
 
 .Imagem-Inicial img{
-    width: 90rem;
+    width: 84.3rem;
     height: 55rem;
 }
 
@@ -51,7 +57,9 @@ margin-left: 250px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-
+    color: #feffd4;
+    line-height: 40px;
+    font-size: 1.5em;
 }   
 
 .Quem-somos {
@@ -97,18 +105,30 @@ margin-left: 250px;
 }
 
 .FEEDBACK {
-    padding: 5rem;
-    font-size: 2em;
-    line-height: 70px;
-    text-align: justify;   
+    padding: 11rem;  
+    height: 10em;
 }
 
 .FEEDBACK h2 {
+    margin-top: -100px;
     text-align: center;
+    margin-bottom: 30px;
+}
+
+.FEEDBACK .div-pai {
+    display: flex;
+    text-align: justify;
+}
+
+.FEEDBACK div {
+    font-size: 1.2em;
+    height: 150px;
+    margin-right: 25px;
+   line-height: 40px;
 }
 
 footer {
-    padding: 3rem;
+    padding: 2rem;
     background: #360616;
 }
 
@@ -117,19 +137,34 @@ footer img {
     margin-top: 20px;
 }
 
-footer div nav {
-    margin-top: 5px;
-    padding: 10px;
-    margin-left: 100px;
+footer div {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer div nav ul {
+    margin-left: 20px;
+    margin-top: 40px;
 }
 
 footer nav li {
     list-style: none;
-    color: #feffd4;
-    font-size: 18px;
+    font-size: 22px;
     padding: 7px;
     display: flex;
     justify-content: space-evenly;
+}
+
+footer nav ul a {
+    text-decoration: none;
+    color: #feffd4;
+}
+
+footer div i {
+    font-size: 25px;
+    color: #feffd4;
+    margin-top: 120px;
+    margin-left: -200px;
 }
 /* .color1 { #c5b89f };
 .color2 { #feffd4 };
