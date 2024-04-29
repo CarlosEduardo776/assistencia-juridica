@@ -6,7 +6,7 @@
 
 .cabeçalho {
     background-color: #450b1e;
-    padding: 4em;
+    padding: 1.5em;
     display: flex;
     align-items: center;
 }
@@ -20,7 +20,7 @@ padding: 10px;
 .cabeçalho h1 {
  color: #feffd4;
 padding: 10px;
-font-size: 50px;
+font-size: 27px;
 text-align: center;
 margin-left: 190px;
 }
@@ -43,10 +43,11 @@ margin-left: 190px;
     list-style: none;
     margin-left: 25px;
     text-align: center;
+    font-size: 1em;
 }
 
 .Imagem-Inicial img{
-    width: 84.3rem;
+    width: 84.5rem;
     height: 55rem;
 }
 
@@ -64,7 +65,7 @@ margin-left: 190px;
 
 .Quem-somos {
     padding: 5rem;
-    font-size: 2em;
+    font-size: 1.5em;
     line-height: 70px;
     text-align: justify;
 }
@@ -87,7 +88,7 @@ margin-left: 190px;
 
 .Serviços {
     padding: 5rem;
-    font-size: 2em;
+    font-size: 1.5em;
     line-height: 70px;
     text-align: justify;
 }
@@ -138,9 +139,10 @@ footer {
 }
 
 footer img {
-    width: 10em;
-    margin-top: 20px;
-}
+    width: 140px;
+    height: 140px;
+    padding: 10px;
+    }
 
 footer div {
     display: flex;
@@ -153,11 +155,10 @@ footer div nav ul {
 }
 
 footer nav li {
-    list-style: none;
-    font-size: 22px;
-    padding: 7px;
-    display: flex;
-    justify-content: space-evenly;
+   list-style: none;
+    margin-left: 25px;
+    text-align: center;
+    font-size: 1em;
 }
 
 footer nav ul a {
