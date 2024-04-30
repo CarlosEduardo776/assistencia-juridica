@@ -99,3 +99,7 @@ a button {
     font-family: 'Times New Roman', Times, serif;
     cursor: pointer;
 }
+
+.voltar a button {
+    margin-left: 700px;
+}

@@ -54,13 +54,9 @@
     transition: 0.9s;
 }
 
-.banner img {
-    width: auto;
-    height: 580px;
-}
 
 .texto-2 {
-    padding: 10em;
+    padding: 12em;
     text-align: justify;
     background-color: #551027f1;
     color: #feffd4;
@@ -107,13 +103,14 @@
     text-decoration: none;
     color: #feffd4;
     font-size: 25px;
+    font-size: 19px;
 }
 
 .footer nav li {
     list-style: none;
     margin-left: 25px;
     text-align: center;
-    font-size: 1em;
+
 }
 
 .footer nav ul li a:hover {
@@ -132,3 +129,176 @@
     margin-left: 10px;
     border-radius: 10px;
 }
+
+/* Código de Responsividade abaixo */
+
+
+/* 480px */
+/* 767px */
+/* 991px */
+/* 1366px */
+/* 1920px */
+
+@media screen and (max-width: 1920px) {
+
+
+
+    .cabeçalho {
+        padding: 8em;
+    }
+
+    .cabeçalho img {
+        margin-left: 20px;
+        width: 160px;
+        height: 160px;
+        padding: 10px;
+    }
+
+    .cabeçalho h1 {
+        font-size: 3em;
+        text-align: justify;
+
+    }
+
+    .cabeçalho nav li {
+        font-size: 2em;
+    }
+
+
+    .texto-2 {
+        font-size: 1.6em;
+    }
+
+
+    .footer {
+        padding: 6em;
+    }
+
+    .footer nav li a {
+        font-size: 2em;
+    }
+
+    .footer div a i {
+        font-size: 3em;
+    }
+
+    .footer img {
+        margin-left: 20px;
+        width: 140px;
+        height: 140px;
+        padding: 10px;
+
+    }
+
+}
+
+@media screen and (max-width: 1366px) {
+
+
+    .cabeçalho {
+        padding: 8em;
+    }
+
+    .cabeçalho img {
+        margin-left: 20px;
+        width: 120px;
+        height: 120px;
+        padding: 8px;
+    }
+
+
+    .cabeçalho h1 {
+        font-size: 3em;
+
+    }
+
+    .cabeçalho nav li {
+        font-size: 1.5em;
+    }
+
+
+    .texto-2 {
+        font-size: 1.4em;
+    }
+
+
+    .footer {
+        padding: 5em;
+    }
+
+    .footer nav li a {
+        font-size: 1.5em;
+    }
+
+    .footer div a i {
+        font-size: 2em;
+        display: inline;
+        padding: 2px;
+    }
+
+    .footer img {
+        margin-left: 20px;
+        width: 120px;
+        height: 120px;
+        padding: 8px;
+
+    }
+}
+
+@media screen and (max-width: 991px) {
+
+    .cabeçalho {
+        padding: 6em;
+    }
+
+    .cabeçalho img {
+        margin-left: 10px;
+        width: 80px;
+        height: 80px;
+        padding: 8px;;
+    }
+
+
+    .cabeçalho h1 {
+        font-size: 1.5em;
+
+    }
+
+    .cabeçalho nav li {
+        font-size: 1em;
+    }
+
+
+    .texto-2 {
+        font-size: 0.8em;
+    }
+
+
+    .footer {
+        padding: 4em;
+    }
+
+    .footer nav li a {
+        font-size: 1em;
+    }
+
+    .footer div a i {
+        font-size: 1.5em;
+        display: inline;
+
+    }
+
+    .footer img {
+        margin-left: 5px;
+        width: 80px;
+        height: 80px;
+        padding: 8px;
+
+    }
+
+
+}
+
+@media screen and (max-width: 767px) {}
+
+@media screen and (max-width: 480px) {}
