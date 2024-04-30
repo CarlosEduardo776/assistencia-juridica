@@ -64,6 +64,13 @@ body {
     transition: 0.9s;
 }
 
+.sessao {
+    padding: 3rem;
+    background: url(imagens/Banner\ -\ Privacidade.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
 h2 {
     font-size: 5rem;
     text-align: center;
