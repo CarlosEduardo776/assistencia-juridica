@@ -54,12 +54,14 @@
     transition: 0.9s;
 }
 
-
 .texto-2 {
     padding: 12em;
     text-align: justify;
-    background-color: #551027f1;
-    color: #feffd4;
+    background: url(imagens/Prancheta\ 1.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    color: white;
 }
 
 .texto-2 p {
