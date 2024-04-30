@@ -353,7 +353,7 @@
 @media screen and (max-width: 480px) {
 
     .cabeçalho {
-        padding: auto;
+        padding: 2.5;
     }
 
     .cabeçalho img {
