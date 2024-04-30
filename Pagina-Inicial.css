@@ -8,7 +8,7 @@
     padding: 0;
     margin: 0;
     font-family: 'Times New Roman', Times, serif;
-    
+
 }
 
 .cabeçalho {
@@ -22,12 +22,13 @@
     width: 140px;
     height: 140px;
     padding: 10px;
+    margin-left: 20px;
 }
 
 .cabeçalho h1 {
     color: #feffd4;
     padding: 10px;
-    font-size: 27px;
+    font-size: 33px;
     text-align: center;
     margin-left: 190px;
 }
@@ -55,8 +56,13 @@
     font-size: 1em;
 }
 
+.cabeçalho nav ul li a:hover {
+    color: #eff179;
+    transition: 0.9s;
+}
+
 .Imagem-Inicial img {
-    width: 84.5rem;
+    width: 84.3rem;
     height: 55rem;
 }
 
@@ -83,12 +89,22 @@
     text-align: center;
 }
 
+.Quem-somos div p span {
+    color: #360616;
+    font-weight: 900;
+}
+
 .Quem-somos a button {
     width: 150px;
     height: 2rem;
     border-radius: 12px;
     font-family: 'Times New Roman', Times, serif;
     cursor: pointer;
+}
+
+.Quem-somos a button:hover {
+    color: #750b2f;
+    transition: 0.9s;
 }
 
 .line {
@@ -118,6 +134,11 @@
     border-radius: 12px;
     font-family: 'Times New Roman', Times, serif;
     cursor: pointer;
+}
+
+a button:hover {
+    color: #750b2f;
+    transition: 0.9s;
 }
 
 .FEEDBACK {
@@ -167,6 +188,7 @@
 }
 
 .footer nav ul {
+    font-size: 25px;
     display: flex;
     margin-left: -80px;
 }
@@ -183,13 +205,18 @@
     font-size: 1em;
 }
 
+.footer nav ul li a:hover {
+    color: #eff179;
+    transition: 0.9s;
+}
+
 .footer div {
-margin-right: 40px;
+    margin-right: 40px;
 }
 
 .footer div i {
     color: #feffd4;
-    font-size: 30px; 
+    font-size: 30px;
     padding: 10px;
     margin-left: 10px;
     border-radius: 10px;
