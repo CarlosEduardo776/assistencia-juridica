@@ -230,6 +230,48 @@ a button:hover {
 }
 
 @media screen and (max-width: 1920px) {
+    .cabeçalho {
+        padding: 5em;
+    }
+
+    .cabeçalho img {
+        margin-left: 5px;
+        width: 70px;
+        height: 70px;
+        padding: 6px;
+        ;
+    }
+
+
+    .cabeçalho h1 {
+        font-size: 1.3em;
+        margin-left: 110px;
+    }
+
+    .cabeçalho nav li {
+        font-size: 0.8em;
+    }
+
+
+    
+    .footer {
+        padding: 4em;
+    }
+
+    .footer nav li a {
+        font-size: 0.8em;
+        margin-left: 10px;
+    }
+
+
+
+    .footer img {
+        margin-left: 5px;
+        width: 80px;
+        height: 80px;
+        padding: 8px;
+
+    }
 }
 
 @media screen and (max-width: 1366px) {
