@@ -10,7 +10,7 @@
 }
 
 body {
-    background-image: url(imagens/Fundo-Formulário.png);
+    background-image: url(imagens/banner\ formulário.png);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -101,5 +101,5 @@ a button {
 }
 
 .voltar a button {
-    margin-left: 700px;
+    margin-left: 645px;
 }
