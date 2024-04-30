@@ -30,7 +30,7 @@
     padding: 10px;
     font-size: 33px;
     text-align: center;
-    margin-left: 190px;
+    margin-left: 210px;
 }
 
 .cabeçalho nav {
@@ -53,7 +53,7 @@
     list-style: none;
     margin-left: 25px;
     text-align: center;
-    font-size: 1em;
+    font-size: 19px;
 }
 
 .cabeçalho nav ul li a:hover {
@@ -141,25 +141,29 @@ a button:hover {
     transition: 0.9s;
 }
 
-.FEEDBACK {
-    padding: 11rem;
-    height: 10em;
+.sobre {
+    padding: 3rem;
+    height: 42em;
 }
 
-.FEEDBACK h2 {
-    margin-top: -100px;
+.sobre h2 {
+    font-size: 35px;
+    margin-top: 50px;
+}
+.sobre h4 {
+    margin-top: -60px;
     text-align: center;
-    margin-bottom: 30px;
+    font-size: 35px;
 }
 
-.FEEDBACK .div-pai {
+.sobre .div-pai {
     display: flex;
     text-align: justify;
 }
 
-.FEEDBACK div {
-    font-size: 1.2em;
-    height: 150px;
+.sobre div {
+    font-size: 1.1em;
+    height: 120px;
     margin-right: 25px;
     line-height: 40px;
 }
@@ -211,7 +215,7 @@ a button:hover {
 }
 
 .footer div {
-    margin-right: 40px;
+    margin-right: 80px;
 }
 
 .footer div i {
