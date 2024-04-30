@@ -61,9 +61,12 @@
     transition: 0.9s;
 }
 
-.Imagem-Inicial img {
-    width: 84.3rem;
-    height: 55rem;
+.Imagem-Inicial {
+    padding: 24rem;
+    background-image: url(imagens/banner\ 01.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .sobre {
