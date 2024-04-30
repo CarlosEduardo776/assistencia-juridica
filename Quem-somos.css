@@ -46,21 +46,16 @@ margin-left: 190px;
     font-size: 1em;
 }
 
-
-.texto {
-    padding: 6em;
-    margin: auto 90px ;
+.banner img {
+    width: auto;
+    height: 580px;
 }
-
-.texto p {
- font-size: 2.5em;
-}
-
 .texto-2 {
     padding: 6em;
-    margin: auto 90px ;
     text-align: justify;
+    background-color:  #551027f1;
 }
+
 
 .texto-2 p {
  font-size: 2.5em;
