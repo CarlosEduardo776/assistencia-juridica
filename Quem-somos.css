@@ -6,15 +6,15 @@
 
 .cabeçalho {
     background-color: #450b1e;
-    padding: 1.5em;
+    padding: 0.5em;
     display: flex;
     align-items: center;
 }
 
 .cabeçalho img {
     margin-left: 20px;
-    width: 140px;
-    height: 140px;
+    width: 100px;
+    height: 10px;
     padding: 10px;
 }
 
@@ -56,14 +56,14 @@
 
 
 .texto-2 {
-    padding: 12em;
+    padding: 8em;
     text-align: justify;
     background-color: #551027f1;
     color: #feffd4;
 }
 
 .texto-2 p {
-    font-size: 2.5em;
+    font-size: 2em;
     text-align: justify;
 }
 
@@ -156,8 +156,6 @@
 
     .cabeçalho h1 {
         font-size: 3em;
-        text-align: justify;
-
     }
 
     .cabeçalho nav li {
@@ -183,7 +181,7 @@
     }
 
     .footer img {
-        margin-left: 20px;
+        margin-left: 95px;
         width: 160px;
         height: 160px;
         padding: 10px;
@@ -366,12 +364,12 @@
 
     .cabeçalho h1 {
         font-size: 0.8em;
-        margin-left: 10px;
+        margin-left: px;
     }
 
     .cabeçalho nav li {
         font-size: 0.5em;
-       padding-left: -90px;
+       padding-left: -20px;
     }
 
 
