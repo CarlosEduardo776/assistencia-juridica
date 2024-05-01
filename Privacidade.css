@@ -153,3 +153,222 @@ p span {
     margin-left: 10px;
     border-radius: 10px;
 }
+
+/* Código de Responsividade abaixo */
+
+
+/* 480px */
+/* 767px */
+/* 991px */
+/* 1366px */
+/* 1920px */
+
+@media screen and (max-width: 480px ) {
+    
+.cabeçalho {
+    padding: 2rem;
+    width: 80rem;
+}
+
+.cabeçalho img {
+    width: 160px;
+    height: 160px;
+    padding: 10px;
+    margin-left: 35px;
+}
+
+.cabeçalho h1 {
+    font-size: 37px;
+    margin-left: 180px;
+}
+
+.cabeçalho nav {
+    margin-left: 39px;
+    font-size: 24px;
+}
+
+.sessao {
+    padding: 3rem;
+    width: 78rem;
+    height: 70rem;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h2 {
+    font-size: 5rem;
+    text-align: center;
+    margin-top: 50px;
+}
+
+
+p {
+    font-size: 2rem;
+    text-align: justify;
+    margin-top: 30px;
+}
+
+.footer {
+    padding: 1.5em;
+   width: 81rem;
+}
+
+.footer img {
+    width: 160px;
+    height: 160px;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.footer nav li {
+    margin-left: 25px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.footer div i {
+    font-size: 45px;
+    padding: 10px;
+    margin-left: 10px;
+}
+}
+
+@media screen and (max-width: 767px ) {
+    
+    .cabeçalho {
+        padding: 1rem;
+        width: 82rem;
+    }
+    
+    .cabeçalho img {
+        width: 160px;
+        height: 160px;
+        padding: 10px;
+        margin-left: 35px;
+    }
+    
+    .cabeçalho h1 {
+        font-size: 37px;
+        margin-left: 180px;
+    }
+    
+    .cabeçalho nav {
+        margin-left: 39px;
+        font-size: 24px;
+    }
+    
+    .sessao {
+        padding: 3rem;
+        width: 78rem;
+        height: 70rem;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    h2 {
+        font-size: 5rem;
+        text-align: center;
+        margin-top: 50px;
+    }
+    
+    
+    p {
+        font-size: 2rem;
+        text-align: justify;
+        margin-top: 30px;
+    }
+    
+    .footer {
+        padding: 1.5em;
+       width: 81rem;
+    }
+    
+    .footer img {
+        width: 160px;
+        height: 160px;
+        padding: 10px;
+        margin-left: 20px;
+    }
+    
+    .footer nav li {
+        margin-left: 25px;
+        text-align: center;
+        font-size: 30px;
+    }
+    
+    .footer div i {
+        font-size: 45px;
+        padding: 10px;
+        margin-left: 10px;
+    }
+    }
+
+    
+@media screen and (min-width: 991px ) {
+    
+    .cabeçalho {
+        padding: 1rem;
+        width: 100rem;
+    }
+    
+    .cabeçalho img {
+        width: 200px;
+        height: 200px;
+        padding: 10px;
+        margin-left: 35px;
+    }
+    
+    .cabeçalho h1 {
+        font-size: 49px;
+        margin-left: 180px;
+    }
+    
+    .cabeçalho nav {
+        margin-left: 39px;
+        font-size: 30px;
+    }
+    
+    .sessao {
+        padding: 3rem;
+        width: 96rem;
+        height: 90rem;
+        background-attachment: fixed;
+        background-size: cover;
+    }
+    
+    h2 {
+        font-size: 5rem;
+        text-align: center;
+        margin-top: 50px;
+    }
+    
+    p {
+        font-size: 4rem;
+        text-align: justify;
+        margin-top: 30px;
+    }
+    
+    .footer {
+        padding: 1.5em;
+       width: 99rem;
+    }
+    
+    .footer img {
+        width: 200px;
+        height: 200px;
+        padding: 10px;
+        margin-left: 20px;
+    }
+    
+    .footer nav li {
+        margin-left: 25px;
+        text-align: center;
+        font-size: 42px;
+    }
+    
+    .footer div i {
+        font-size: 55px;
+        padding: 10px;
+        margin-left: 10px;
+    }
+    }
