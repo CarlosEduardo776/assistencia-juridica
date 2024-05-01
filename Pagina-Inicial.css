@@ -971,7 +971,7 @@ a button:hover {
     .Quem-somos h2 {
         font-size: 4.5rem;
         text-align: center;
-        margin-top: 20px
+        margin-top: 80px
     }
 
     .Quem-somos div p {
@@ -980,16 +980,9 @@ a button:hover {
         font-size: 3.2rem;
     }
 
-    .Quem-somos a button {
-        width: 200px;
-        height: 4rem;
-        border-radius: 30px;
-        font-size: 22px;
-    }
-
     .line {
         width: 80%;
-        margin-left: 190px;
+        margin-left: 170px;
     }
 
     .Serviços div {
@@ -1000,6 +993,7 @@ a button:hover {
     .Serviços h2 {
         font-size: 4.5rem;
         text-align: center;
+        margin-top: 40px;
     }
 
     .Serviços div p {
