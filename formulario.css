@@ -103,6 +103,9 @@ a button {
 .voltar a button {
     /* margin-left: 700px; */
     margin-top: 5px;
+    width: 130px;
+    height: 1.8rem;
+    font-size: 13px;
 }
 
 
