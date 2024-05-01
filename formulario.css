@@ -78,7 +78,6 @@ form a button {
 }
 
 .enviar input:hover {
-    color: white;
     transition: 0.5s;
     font-family: 'Times New Roman', Times, serif;
     border-radius: 12px;
@@ -116,3 +115,23 @@ a button {
 /* 991px */
 /* 1366px */
 /* 1920px */
+
+
+@media screen and (min-width:300px) {
+    a button {
+        width: 150px;
+        height: 2rem;
+        border-radius: 12px;
+        font-family: 'Times New Roman', Times, serif;
+        cursor: pointer;
+    }
+    
+    .voltar a button {
+        /* margin-left: 700px; */
+        margin-top: 5px;
+        width: 130px;
+        height: 1.8rem;
+        font-size: 13px;
+    }
+    
+}
