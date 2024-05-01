@@ -78,7 +78,6 @@ form a button {
 }
 
 .enviar input:hover {
-    background-color: rgba(150, 147, 147, 0.829);
     color: white;
     transition: 0.5s;
     font-family: 'Times New Roman', Times, serif;
@@ -117,23 +116,5 @@ a button {
 /* 991px */
 /* 1366px */
 /* 1920px */
-
-@media screen and (max-width: 767) {
-   .voltar a button {
-    margin-top: 5px;
-    width: 130px;
-    height: 1.8rem;
-    font-size: 13px;
-    background-color: white;
-    color: black;
-}
-
-a button {
-    width: 150px;
-    height: 2rem;
-    border-radius: 12px;
-    background-color: white;
-    color: black;
-}
 
 }
