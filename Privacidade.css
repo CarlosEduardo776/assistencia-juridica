@@ -306,7 +306,7 @@ p {
     }
 
     
-@media screen and (min-width: 991px ) {
+@media screen and (max-width: 991px ) {
     
     .cabeçalho {
         padding: 1rem;
@@ -374,3 +374,13 @@ p {
         margin-left: 10px;
     }
     }
+
+@media screen and (min-width: 1100px ) {
+    .sessao {
+        padding: 3rem;
+        width: 96rem;
+        height: 140rem;
+        background-attachment: fixed;
+        background-size: cover;
+    }   
+}
