@@ -140,3 +140,288 @@
 /* 991px */
 /* 1366px */
 /* 1920px */
+
+@media screen and (max-width:480px) {
+    
+.cabeçalho {
+    padding: 1em;
+    width: 62rem;
+}
+
+.cabeçalho img {
+    margin-left: 10px;
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+}
+
+.cabeçalho h1 {
+    padding: 10px;
+    font-size: 20px;
+    margin-left: 150px;
+}
+
+.cabeçalho nav {
+    padding: 10px;
+    margin-left: 20px;
+
+}
+
+.cabeçalho nav li {
+    font-size: 15px;
+}
+
+.texto-2 {
+    padding: 8em;
+    width: 48rem;
+    height: 50rem;
+    background-size: cover;
+}
+
+.texto-2 p {
+    font-size: 2.8em;
+    text-align: justify;
+}
+
+.footer {
+    padding: 1.5em;
+   width: 61rem;
+}
+
+.footer img {
+    width: 140px;
+    height: 140px;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+.footer nav {
+    margin-top: 5px;
+    padding: 10px;
+    margin-left: 100px;
+}
+
+.footer nav ul {
+    margin-left: -90px;
+}
+
+.footer div i {
+  
+    font-size: 35px;
+    padding: 10px;
+    margin-left: 10px;
+}
+}
+
+
+@media screen and (max-width:767px) {
+    
+    .cabeçalho {
+        padding: 2em;
+        width: 70rem;
+    }
+    
+    .cabeçalho img {
+        margin-left: 10px;
+        width: 140px;
+        height: 140px;
+        padding: 10px;
+    }
+    
+    .cabeçalho h1 {
+        padding: 10px;
+        font-size: 30px;
+        margin-left: 150px;
+    }
+    
+    .cabeçalho nav {
+        padding: 10px;
+        margin-left: 20px;
+    }
+    
+    .cabeçalho nav li {
+        font-size: 23px;
+    }
+    
+    .texto-2 {
+        padding: 8em;
+        width: 58rem;
+        height: 40rem;
+        background-size: cover;
+    }
+    
+    .texto-2 p {
+        font-size: 2.8em;
+        text-align: justify;
+    }
+    
+    .footer {
+        padding: 1.5em;
+       width: 71rem;
+    }
+    
+    .footer img {
+        width: 160px;
+        height: 160px;
+        padding: 10px;
+        margin-left: 20px;
+    }
+    
+    .footer nav {
+        margin-top: 5px;
+        padding: 10px;
+        margin-left: 100px;
+    }
+    
+    .footer nav ul {
+        margin-left: -90px;
+    }
+
+    .footer div i {
+        font-size: 45px;
+        padding: 10px;
+        margin-left: 10px;
+    }
+    }
+
+    
+@media screen and (max-width:991px) {
+    
+    .cabeçalho {
+        padding: 2em;
+        width: 70rem;
+    }
+    
+    .cabeçalho img {
+        margin-left: 10px;
+        width: 140px;
+        height: 140px;
+        padding: 10px;
+    }
+    
+    .cabeçalho h1 {
+        padding: 10px;
+        font-size: 30px;
+        margin-left: 150px;
+    }
+    
+    .cabeçalho nav {
+        padding: 10px;
+        margin-left: 20px;
+    }
+    
+    .cabeçalho nav li {
+        font-size: 23px;
+    }
+    
+    .texto-2 {
+        padding: 8em;
+        width: 58rem;
+        height: 40rem;
+        background-size: cover;
+    }
+    
+    .texto-2 p {
+        font-size: 2.8em;
+        text-align: justify;
+    }
+    
+    .footer {
+        padding: 1.5em;
+       width: 71rem;
+    }
+    
+    .footer img {
+        width: 160px;
+        height: 160px;
+        padding: 10px;
+        margin-left: 20px;
+    }
+    
+    .footer nav {
+        margin-top: 5px;
+        padding: 10px;
+        margin-left: 100px;
+    }
+    
+    .footer nav ul {
+        margin-left: -90px;
+    }
+
+    .footer div i {
+        font-size: 45px;
+        padding: 10px;
+        margin-left: 10px;
+    }
+    }
+    
+@media screen and (min-width:1366px) {
+    
+    .cabeçalho {
+        padding: 2em;
+        width: 81.3rem;
+    }
+    
+    .cabeçalho img {
+        margin-left: 10px;
+        width: 190px;
+        height: 190px;
+        padding: 10px;
+    }
+    
+    .cabeçalho h1 {
+        padding: 10px;
+        font-size: 40px;
+        margin-left: 150px;
+    }
+    
+    .cabeçalho nav {
+        padding: 10px;
+        margin-left: 20px;
+    }
+    
+    .cabeçalho nav li {
+        font-size: 25px;
+    }
+    
+    .texto-2 {
+        padding: 8em;
+        width: 69.3rem;
+        height: 40rem;
+        background-size: cover;
+    }
+    
+    .texto-2 p {
+        font-size: 2.8em;
+        text-align: justify;
+    }
+    
+    .footer {
+        padding: 1.5em;
+       width: 82.4rem;
+    }
+    
+    .footer img {
+        width: 160px;
+        height: 160px;
+        padding: 10px;
+        margin-left: 20px;
+    }
+    
+    .footer nav {
+        margin-top: 5px;
+        padding: 10px;
+        margin-left: 100px;
+        font-size: 35px;
+    }
+    
+    .footer nav ul {
+        margin-left: -90px;
+    }
+
+    .footer div i {
+        font-size: 55px;
+        padding: 10px;
+        margin-left: 10px;
+    }
+    }
