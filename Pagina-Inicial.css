@@ -758,7 +758,7 @@ a button:hover {
     }
 }
 
-@media screen and (max-width: 1366px) {
+@media screen and (max-width: 1166px) {
     .cabeçalho {
         padding: 2rem;
         width: 90em;
