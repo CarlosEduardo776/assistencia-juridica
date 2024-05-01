@@ -369,6 +369,7 @@ a button:hover {
         width: 45rem;
         height: 86rem;
         background-size: cover;
+        background-position: center;
     }
 
     .sobre h2 {
