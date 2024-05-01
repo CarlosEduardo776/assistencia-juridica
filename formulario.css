@@ -118,9 +118,9 @@ a button {
 
 
 @media screen and (min-width:300px) {
-    a button {
+    .enviar input {
         width: 150px;
-        height: 2rem;
+        height: 1.5rem;
         border-radius: 12px;
         font-family: 'Times New Roman', Times, serif;
         background-color: white;
@@ -131,7 +131,7 @@ a button {
         /* margin-left: 700px; */
         margin-top: 5px;
         width: 130px;
-        height: 1.8rem;
+        height: 1.5rem;
         font-size: 13px;
         background-color: white;
         color: black;
