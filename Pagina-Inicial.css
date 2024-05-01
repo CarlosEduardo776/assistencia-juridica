@@ -313,6 +313,7 @@ a button:hover {
 
     .Quem-somos {
         font-size: 1.6rem;
+        height: 190rem;
     }
 
     .Quem-somos div {
@@ -329,13 +330,13 @@ a button:hover {
         text-align: center;
         font-size: 2.3rem;
     }
-
+/* 
     .Quem-somos a button {
         width: 170px;
         height: 190rem;
         border-radius: 12px;
         font-size: 17px;
-    }
+    } */
 
     .line {
         width: 90%;
