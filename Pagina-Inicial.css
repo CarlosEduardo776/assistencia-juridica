@@ -340,7 +340,7 @@ a button:hover {
 
     .line {
         width: 90%;
-        margin-left: 200px;
+        margin: 0 auto;
     }
 
     .Serviços div {
