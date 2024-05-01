@@ -69,14 +69,13 @@
     background-size: cover;
 }
 
-.conteudo {
-    padding: 3rem;
-    background-image: url(imagens/banner-textura.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-}
+/* .conteudo { */
+    /* padding: 3rem; */
+    /* background-image: url(imagens/banner-textura.jpg); */
+    /* background-position: center; */
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+/* } */
 
 .sobre {
     padding: 10rem;
@@ -304,12 +303,12 @@ a button:hover {
         height: 5rem;
     }
 
-    .conteudo {
-        padding: 22rem;
-        width: 7rem;
-        height: 5rem;
-        background-size: cover;
-    }
+    /* .conteudo { */
+        /* padding: 22rem; */
+        /* width: 7rem; */
+        /* height: 5rem; */
+        /* background-size: cover; */
+    /* } */
 
     .Quem-somos {
         font-size: 1.6rem;
@@ -464,12 +463,12 @@ a button:hover {
         height: 5rem;
     }
 
-    .conteudo {
-        padding: 22rem;
-        width: 12rem;
-        height: 5rem;
-        background-size: cover;
-    }
+    /* .conteudo { */
+        /* padding: 22rem; */
+        /* width: 12rem; */
+        /* height: 5rem; */
+        /* background-size: cover; */
+    /* } */
 
     .Quem-somos div {
         width: 45rem;
@@ -617,12 +616,12 @@ a button:hover {
         height: 5rem;
     }
 
-    .conteudo {
-        padding: 22rem;
-        width: 20rem;
-        height: 5rem;
-        background-size: cover;
-    }
+    /* .conteudo { */
+        /* padding: 22rem; */
+        /* width: 20rem; */
+        /* height: 5rem; */
+        /* background-size: cover; */
+    /* } */
 
     .Quem-somos div {
         width: 50rem;
@@ -774,12 +773,12 @@ a button:hover {
         height: 5rem;
     }
 
-    .conteudo{
-        padding: 22rem;
-        width: 50rem;
-        height: 5rem;
-        background-size: cover;
-    }
+    /* .conteudo{ */
+        /* padding: 22rem; */
+        /* width: 50rem; */
+        /* height: 5rem; */
+        /* background-size: cover; */
+    /* } */
 
     .Quem-somos div {
         width: 80rem;
