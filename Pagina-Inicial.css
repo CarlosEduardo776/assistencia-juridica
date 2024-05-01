@@ -402,3 +402,150 @@ a button:hover {
     font-size: 20px;
 }
 }
+
+
+@media screen and (max-width: 767px) {
+    .cabeçalho {
+        padding: 2rem;
+        width: 52em;
+    }
+
+    .cabeçalho img {
+    width: 100px;
+    height: 100px;
+    padding: 7px;
+    margin-left: 20px;
+    }
+    
+.cabeçalho h1 {
+    padding: 5px;
+    font-size: 24px;
+    margin-left: 140px;
+}
+
+.cabeçalho nav {
+    margin-top: 5px;
+    padding: 5px;
+    margin-left: 40px;
+}
+
+.cabeçalho nav li {
+    margin-left: 15px;
+    font-size: 16px;
+}
+
+.Imagem-Inicial {
+    padding: 22rem;
+    width: 12rem;
+    height: 5rem;
+}
+
+.Quem-somos div {
+    width: 45rem;
+    height: 35rem;
+}
+
+.Quem-somos h2 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.Quem-somos div p {
+    text-align: justify;
+    font-size: 2.3rem;
+}
+
+.Quem-somos a button {
+    width: 170px;
+    height: 3rem;
+    border-radius: 12px;
+    font-size: 17px;
+}
+
+.line {
+    width: 80%;
+    margin-left: 140px;
+}
+
+.Serviços div {
+    width: 45rem;
+    height: 116rem;
+}
+
+.Serviços h2 {
+    font-size: 3rem;
+    text-align: center;
+}
+
+.Serviços div p {
+    text-align: justify;
+    font-size: 2.3rem;
+}
+
+.Serviços a button {
+    width: 170px;
+    height: 3rem;
+    border-radius: 12px;
+    font-size: 17px;
+}
+
+.sobre {
+    width: 50rem;
+    height: 77rem;
+    background-size: cover;
+}
+
+.sobre h2 {
+    font-size: 40px;
+    margin-top: 30px;
+}
+
+.sobre h3 {
+    font-size: 40px;
+}
+ 
+.sobre h4 {
+    margin-top: -60px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.sobre .div-pai {
+    width: 46rem;
+    height: 4em;
+}
+
+.sobre div p{
+    font-size: 22px;
+    width: 8.7em;
+}
+
+.footer {
+   width: 53rem;
+    padding: 1.5em;
+}
+
+.footer img {
+    width: 90px;
+    height: 90px;
+}
+
+.footer nav {
+    margin-top: 5px;
+    padding: 10px;
+    margin-left: 90px;
+}
+
+.footer nav ul {
+    font-size: 16px;
+    margin-left: -80px;
+}
+
+.footer div {
+    margin-right: 20px;
+}
+
+.footer div i {
+    font-size: 29px;
+}
+}
