@@ -71,6 +71,7 @@ body {
     background-size: cover;
     background-position: center;
 }
+
 h2 {
     font-size: 5rem;
     text-align: center;
@@ -209,13 +210,14 @@ p {
 }
 
 .footer {
-    padding: 1.5em;
+    padding: 2em;
+    height: 16.3rem;
    width: 81rem;
 }
 
 .footer img {
-    width: 160px;
-    height: 160px;
+    width: 180px;
+    height: 180px;
     padding: 10px;
     margin-left: 20px;
 }
@@ -223,11 +225,11 @@ p {
 .footer nav li {
     margin-left: 25px;
     text-align: center;
-    font-size: 30px;
+    font-size: 40px;
 }
 
 .footer div i {
-    font-size: 45px;
+    font-size: 60px;
     padding: 10px;
     margin-left: 10px;
 }
