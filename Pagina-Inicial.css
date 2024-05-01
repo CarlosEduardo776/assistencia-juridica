@@ -855,3 +855,159 @@ a button:hover {
     font-size: 55px;
 }
 }
+
+@media screen and (min-width: 1367px) {
+    .cabeçalho {
+        padding: 2rem;
+        width: 90em;
+    }
+
+    .cabeçalho img {
+    width: 10.63rem;
+    height: 10.63rem;
+    padding: 7px;
+    margin-left: 50px;
+    }
+    
+.cabeçalho h1 {
+    padding: 5px;
+    font-size: 2.7rem;
+    margin-left: 170px;
+}
+
+.cabeçalho nav {
+    margin-top: 5px;
+    padding: 5px;
+    margin-right: 20px;
+}
+
+.cabeçalho nav li {
+    margin-left: 30px;
+    font-size: 1.6rem;
+}
+
+.Imagem-Inicial {
+    padding: 22rem;
+    width: 50rem;
+    height: 5rem;
+}
+
+.Quem-somos div {
+    width: 80rem;
+    height: 40rem;
+}
+
+.Quem-somos h2 {
+    font-size: 4.5rem;
+    text-align: center;
+    margin-top: 20px
+}
+
+.Quem-somos div p {
+    margin-top: 25px;
+    text-align: justify;
+    font-size: 4rem;
+}
+
+.Quem-somos a button {
+    width: 200px;
+    height: 4rem;
+    border-radius: 30px;
+    font-size: 22px;
+}
+
+.line {
+    width: 80%;
+    margin-left: 190px;
+}
+
+.Serviços div {
+    width: 80rem;
+    height: 105rem;
+}
+
+.Serviços h2 {
+    font-size: 4.5rem;
+    text-align: center;
+}
+
+.Serviços div p {
+    text-align: justify;
+    font-size: 3.2rem;
+    margin-top: 25px;
+}
+
+.Serviços a button {
+    width: 200px;
+    height: 4rem;
+    border-radius: 30px;
+    font-size: 22px;
+}
+
+.sobre {
+    width: 88rem;
+    height: 72rem;
+    background-size: cover;
+}
+
+.sobre {
+    font-size: 35px;
+}
+
+.sobre h2 {
+    font-size: 45px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+.sobre h3 {
+    font-size: 45px;
+    margin-bottom: 17px;
+}
+ 
+.sobre h4 {
+    margin-top: -90px;
+    text-align: center;
+    font-size: 46px;
+}
+
+.sobre .div-pai {
+    width: 70rem;
+    height: 2em;
+}
+
+.sobre div p{
+    margin-top: 25px;
+    font-size: 39px;
+    width: 8.7em;
+}
+
+.footer {
+   width: 91rem;
+    padding: 1.5em;
+}
+
+.footer img {
+    width: 160px;
+    height: 160px;
+}
+
+.footer nav {
+    margin-top: 5px;
+    padding: 10px;
+    margin-left: 90px;
+}
+
+.footer nav ul {
+    font-size: 30px;
+    margin-left: -80px;
+}
+
+.footer div {
+    margin-right: 40px;
+}
+
+.footer div i {
+    font-size: 55px;
+}
+}
