@@ -28,7 +28,7 @@
 .cabeçalho h1 {
     color: #feffd4;
     padding: 10px;
-    font-size: 33px;
+    font-size: 34px;
     text-align: center;
     margin-left: 210px;
 }
@@ -37,7 +37,7 @@
     margin-top: 5px;
     padding: 10px;
     margin-left: 100px;
-
+    font-size: 20px;
 }
 
 .cabeçalho nav ul {
@@ -147,21 +147,30 @@ a button:hover {
 .sobre {
     padding: 3rem;
     height: 42em;
+    background: linear-gradient(180deg, rgba(223, 228, 161, 0.83) 20%, rgba(236, 235, 137, 0.836) 100%), url(imagens/banner\ 01.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #750b2f;
+    font-weight: 300;
 }
 
 .sobre h2 {
     font-size: 35px;
     margin-top: 50px;
+    color: #750b2f;
 }
 .sobre h4 {
     margin-top: -60px;
     text-align: center;
     font-size: 35px;
+    color: #750b2f;
 }
 
 .sobre .div-pai {
     display: flex;
     text-align: justify;
+    color: #750b2f;
 }
 
 .sobre div {
@@ -169,6 +178,7 @@ a button:hover {
     height: 120px;
     margin-right: 25px;
     line-height: 40px;
+    color: #750b2f;
 }
 
 .footer {
@@ -229,59 +239,166 @@ a button:hover {
     border-radius: 10px;
 }
 
-@media screen and (max-width: 1920px) {
+
+/* Código de Responsividade abaixo */
+
+
+/* 480px */
+/* 767px */
+/* 991px */
+/* 1366px */
+/* 1920px */
+
+
+@media screen and (max-width: 480px) {
     .cabeçalho {
-        padding: 5em;
+        padding: 2rem;
+        width: 47em;
     }
 
     .cabeçalho img {
-        margin-left: 5px;
-        width: 70px;
-        height: 70px;
-        padding: 6px;
-        ;
+    width: 90px;
+    height: 90px;
+    padding: 5px;
+    margin-left: 10px;
     }
-
-
-    .cabeçalho h1 {
-        font-size: 1.3em;
-        margin-left: 110px;
-    }
-
-    .cabeçalho nav li {
-        font-size: 0.8em;
-    }
-
-
     
-    .footer {
-        padding: 4em;
-    }
-
-    .footer nav li a {
-        font-size: 0.8em;
-        margin-left: 10px;
-    }
-
-
-
-    .footer img {
-        margin-left: 5px;
-        width: 80px;
-        height: 80px;
-        padding: 8px;
-
-    }
+.cabeçalho h1 {
+    padding: 5px;
+    font-size: 19px;
+    margin-left: 140px;
 }
 
-@media screen and (max-width: 1366px) {
+.cabeçalho nav {
+    margin-top: 5px;
+    padding: 5px;
+    margin-left: 40px;
 }
 
-@media screen and (max-width: 991px) {
+.cabeçalho nav li {
+    margin-left: 10px;
+    text-align: center;
+    font-size: 13px;
 }
 
-@media screen and (max-width: 767px) {
+.Imagem-Inicial {
+    padding: 22rem;
+    width: 7rem;
+    height: 5rem;
 }
 
-@media screen and (max-width: 480px) {
+.Quem-somos {
+    font-size: 1.6rem;
+}
+
+.Quem-somos div {
+    width: 45rem;
+    height: 35rem;
+}
+
+.Quem-somos h2 {
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.Quem-somos div p {
+    text-align: center;
+    font-size: 2.3rem;
+}
+
+.Quem-somos a button {
+    width: 170px;
+    height: 3rem;
+    border-radius: 12px;
+    font-size: 17px;
+}
+
+.line {
+    width: 90%;
+    margin-left: 200px;
+}
+
+.Serviços div {
+    width: 45rem;
+    height: 116rem;
+}
+
+.Serviços h2 {
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.Serviços div p {
+    text-align: justify;
+    font-size: 2.3rem;
+}
+
+.Serviços a button {
+    width: 170px;
+    height: 3rem;
+    border-radius: 12px;
+    font-size: 17px;
+}
+
+.sobre {
+    width: 45rem;
+    height: 86rem;
+    background-size: cover;
+}
+
+.sobre h2 {
+    font-size: 40px;
+    margin-top: 30px;
+}
+
+.sobre h3 {
+    font-size: 40px;
+}
+ 
+.sobre h4 {
+    margin-top: -60px;
+    text-align: center;
+    font-size: 40px;
+}
+
+.sobre .div-pai {
+    width: 40rem;
+    height: 4em;
+}
+
+.sobre div p{
+    font-size: 22px;
+    width: 7.8em;
+    height: 2em;
+    text-align: justify;
+}
+
+.footer {
+   width: 48rem;
+    padding: 1.5em;
+}
+
+.footer img {
+    width: 100px;
+    height: 100px;
+}
+
+.footer nav {
+    margin-top: 5px;
+    padding: 10px;
+    margin-left: 100px;
+}
+
+.footer nav ul {
+    font-size: 16px;
+    margin-left: -80px;
+}
+
+.footer div {
+    margin-right: 20px;
+}
+
+.footer div i {
+    font-size: 20px;
+}
 }
