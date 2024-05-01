@@ -123,7 +123,8 @@ a button {
         height: 2rem;
         border-radius: 12px;
         font-family: 'Times New Roman', Times, serif;
-        cursor: pointer;
+        background-color: white;
+        color: black;
     }
     
     .voltar a button {
@@ -132,6 +133,8 @@ a button {
         width: 130px;
         height: 1.8rem;
         font-size: 13px;
+        background-color: white;
+        color: black;
     }
     
 }
