@@ -18,7 +18,7 @@ body {
 
 .caixa {
     width: 380px;
-    height: 310px;
+    height: 350px;
     margin: 190px auto;
     box-shadow: 7px 14px 23px black;
     text-align: center;
@@ -101,7 +101,8 @@ a button {
 }
 
 .voltar a button {
-    margin-left: 615px;
+    /* margin-left: 700px; */
+    margin-top: 5px;
 }
 
 
