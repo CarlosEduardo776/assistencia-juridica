@@ -313,7 +313,7 @@ a button:hover {
 
     .Quem-somos {
         font-size: 1.6rem;
-        height: 190rem;
+        height: 100rem;
     }
 
     .Quem-somos div {
@@ -339,8 +339,8 @@ a button:hover {
     } */
 
     .line {
-        width: 90%;
-        margin: 0 auto;
+        width: 100rem;
+        margin-right: 1100px;
     }
 
     .Serviços div {
