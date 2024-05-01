@@ -338,9 +338,9 @@ a button:hover {
         font-size: 17px;
     } */
 
-    .line {
-        width: 80%;
-        margin-right: 1100px;
+    #linha .line {
+        width: 50em;
+        margin-left: 320px;
     }
 
     .Serviços div {
