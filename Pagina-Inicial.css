@@ -365,6 +365,11 @@ a button:hover {
         font-size: 17px;
     }
 
+    .Serviços a button:hover {
+        color: #750b2f;
+        transition: 0.9s;
+    }
+
     .sobre {
         width: 45rem;
         height: 86rem;
@@ -520,6 +525,7 @@ a button:hover {
         height: 3rem;
         border-radius: 12px;
         font-size: 17px;
+        color: black;
     }
 
     .sobre {
