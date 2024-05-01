@@ -363,6 +363,7 @@ a button:hover {
         height: 3rem;
         border-radius: 12px;
         font-size: 17px;
+        color: black;
     }
 
     .Serviços a button:hover {
