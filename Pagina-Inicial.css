@@ -69,12 +69,12 @@
     background-size: cover;
 }
 
-.conteudo{
-padding: 3rem;
-background-image: url(imagens/banner-textura.jpg);
-background-position: center;
-background-repeat: no-repeat;
-background-size: cover;
+.conteudo {
+    padding: 3rem;
+    background-image: url(imagens/banner-textura.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 
@@ -169,6 +169,7 @@ a button:hover {
     margin-top: 50px;
     color: #750b2f;
 }
+
 .sobre h4 {
     margin-top: -60px;
     text-align: center;
@@ -182,14 +183,14 @@ a button:hover {
     color: #750b2f;
 }
 
-.sobre .div-pai p{
+.sobre .div-pai p {
     padding: 1.5rem;
     display: flex;
     font-size: 2.1rem;
 }
 
 .sobre div {
-    
+
     font-size: 1.1em;
     height: 120px;
     margin-right: 25px;
@@ -273,150 +274,157 @@ a button:hover {
     }
 
     .cabeçalho img {
-    width: 90px;
-    height: 90px;
-    padding: 5px;
-    margin-left: 10px;
+        width: 90px;
+        height: 90px;
+        padding: 5px;
+        margin-left: 10px;
     }
-    
-.cabeçalho h1 {
-    padding: 5px;
-    font-size: 19px;
-    margin-left: 140px;
-}
 
-.cabeçalho nav {
-    margin-top: 5px;
-    padding: 5px;
-    margin-left: 40px;
-}
+    .cabeçalho h1 {
+        padding: 5px;
+        font-size: 19px;
+        margin-left: 140px;
+    }
 
-.cabeçalho nav li {
-    margin-left: 10px;
-    text-align: center;
-    font-size: 13px;
-}
+    .cabeçalho nav {
+        margin-top: 5px;
+        padding: 5px;
+        margin-left: 40px;
+    }
 
-.Imagem-Inicial {
-    padding: 22rem;
-    width: 7rem;
-    height: 5rem;
-}
+    .cabeçalho nav li {
+        margin-left: 10px;
+        text-align: center;
+        font-size: 13px;
+    }
 
-.Quem-somos {
-    font-size: 1.6rem;
-}
+    .Imagem-Inicial {
+        padding: 22rem;
+        width: 7rem;
+        height: 5rem;
+    }
 
-.Quem-somos div {
-    width: 45rem;
-    height: 35rem;
-}
+    .conteudo {
+        padding: 22rem;
+        width: 7rem;
+        height: 5rem;
+        background-size: cover;
+    }
 
-.Quem-somos h2 {
-    font-size: 2.5rem;
-    text-align: center;
-}
+    .Quem-somos {
+        font-size: 1.6rem;
+    }
 
-.Quem-somos div p {
-    text-align: center;
-    font-size: 2.3rem;
-}
+    .Quem-somos div {
+        width: 45rem;
+        height: 35rem;
+    }
 
-.Quem-somos a button {
-    width: 170px;
-    height: 3rem;
-    border-radius: 12px;
-    font-size: 17px;
-}
+    .Quem-somos h2 {
+        font-size: 2.5rem;
+        text-align: center;
+    }
 
-.line {
-    width: 90%;
-    margin-left: 200px;
-}
+    .Quem-somos div p {
+        text-align: center;
+        font-size: 2.3rem;
+    }
 
-.Serviços div {
-    width: 45rem;
-    height: 116rem;
-}
+    .Quem-somos a button {
+        width: 170px;
+        height: 3rem;
+        border-radius: 12px;
+        font-size: 17px;
+    }
 
-.Serviços h2 {
-    font-size: 2.5rem;
-    text-align: center;
-}
+    .line {
+        width: 90%;
+        margin-left: 200px;
+    }
 
-.Serviços div p {
-    text-align: justify;
-    font-size: 2.3rem;
-}
+    .Serviços div {
+        width: 45rem;
+        height: 116rem;
+    }
 
-.Serviços a button {
-    width: 170px;
-    height: 3rem;
-    border-radius: 12px;
-    font-size: 17px;
-}
+    .Serviços h2 {
+        font-size: 2.5rem;
+        text-align: center;
+    }
 
-.sobre {
-    width: 45rem;
-    height: 86rem;
-    background-size: cover;
-}
+    .Serviços div p {
+        text-align: justify;
+        font-size: 2.3rem;
+    }
 
-.sobre h2 {
-    font-size: 40px;
-    margin-top: 30px;
-}
+    .Serviços a button {
+        width: 170px;
+        height: 3rem;
+        border-radius: 12px;
+        font-size: 17px;
+    }
 
-.sobre h3 {
-    font-size: 40px;
-}
- 
-.sobre h4 {
-    margin-top: -60px;
-    text-align: center;
-    font-size: 40px;
-}
+    .sobre {
+        width: 45rem;
+        height: 86rem;
+        background-size: cover;
+    }
 
-.sobre .div-pai {
-    width: 40rem;
-    height: 4em;
-}
+    .sobre h2 {
+        font-size: 40px;
+        margin-top: 30px;
+    }
 
-.sobre div p{
-    font-size: 22px;
-    width: 7.8em;
-    height: 2em;
-    text-align: justify;
-}
+    .sobre h3 {
+        font-size: 40px;
+    }
 
-.footer {
-   width: 48rem;
-    padding: 1.5em;
-}
+    .sobre h4 {
+        margin-top: -60px;
+        text-align: center;
+        font-size: 40px;
+    }
 
-.footer img {
-    width: 100px;
-    height: 100px;
-}
+    .sobre .div-pai {
+        width: 40rem;
+        height: 4em;
+    }
 
-.footer nav {
-    margin-top: 5px;
-    padding: 10px;
-    margin-left: 100px;
-}
+    .sobre div p {
+        font-size: 22px;
+        width: 7.8em;
+        height: 2em;
+        text-align: justify;
+    }
 
-.footer nav ul {
-    font-size: 16px;
-    margin-left: -80px;
-}
+    .footer {
+        width: 48rem;
+        padding: 1.5em;
+    }
 
-.footer div {
-    margin-right: 20px;
-}
+    .footer img {
+        width: 100px;
+        height: 100px;
+    }
 
-.footer div i {
-    font-size: 20px;
-}
+    .footer nav {
+        margin-top: 5px;
+        padding: 10px;
+        margin-left: 100px;
+    }
+
+    .footer nav ul {
+        font-size: 16px;
+        margin-left: -80px;
+    }
+
+    .footer div {
+        margin-right: 20px;
+    }
+
+    .footer div i {
+        font-size: 20px;
+    }
 }
 
 
@@ -427,143 +435,150 @@ a button:hover {
     }
 
     .cabeçalho img {
-    width: 100px;
-    height: 100px;
-    padding: 7px;
-    margin-left: 20px;
+        width: 100px;
+        height: 100px;
+        padding: 7px;
+        margin-left: 20px;
     }
-    
-.cabeçalho h1 {
-    padding: 5px;
-    font-size: 24px;
-    margin-left: 140px;
-}
 
-.cabeçalho nav {
-    margin-top: 5px;
-    padding: 5px;
-    margin-left: 40px;
-}
+    .cabeçalho h1 {
+        padding: 5px;
+        font-size: 24px;
+        margin-left: 140px;
+    }
 
-.cabeçalho nav li {
-    margin-left: 15px;
-    font-size: 16px;
-}
+    .cabeçalho nav {
+        margin-top: 5px;
+        padding: 5px;
+        margin-left: 40px;
+    }
 
-.Imagem-Inicial {
-    padding: 22rem;
-    width: 12rem;
-    height: 5rem;
-}
+    .cabeçalho nav li {
+        margin-left: 15px;
+        font-size: 16px;
+    }
 
-.Quem-somos div {
-    width: 45rem;
-    height: 35rem;
-}
+    .Imagem-Inicial {
+        padding: 22rem;
+        width: 12rem;
+        height: 5rem;
+    }
 
-.Quem-somos h2 {
-    font-size: 3rem;
-    text-align: center;
-}
+    .conteudo {
+        padding: 22rem;
+        width: 12rem;
+        height: 5rem;
+        background-size: cover;
+    }
 
-.Quem-somos div p {
-    text-align: justify;
-    font-size: 2.3rem;
-}
+    .Quem-somos div {
+        width: 45rem;
+        height: 35rem;
+    }
 
-.Quem-somos a button {
-    width: 170px;
-    height: 3rem;
-    border-radius: 12px;
-    font-size: 17px;
-}
+    .Quem-somos h2 {
+        font-size: 3rem;
+        text-align: center;
+    }
 
-.line {
-    width: 80%;
-    margin-left: 140px;
-}
+    .Quem-somos div p {
+        text-align: justify;
+        font-size: 2.3rem;
+    }
 
-.Serviços div {
-    width: 45rem;
-    height: 116rem;
-}
+    .Quem-somos a button {
+        width: 170px;
+        height: 3rem;
+        border-radius: 12px;
+        font-size: 17px;
+    }
 
-.Serviços h2 {
-    font-size: 3rem;
-    text-align: center;
-}
+    .line {
+        width: 80%;
+        margin-left: 140px;
+    }
 
-.Serviços div p {
-    text-align: justify;
-    font-size: 2.3rem;
-}
+    .Serviços div {
+        width: 45rem;
+        height: 116rem;
+    }
 
-.Serviços a button {
-    width: 170px;
-    height: 3rem;
-    border-radius: 12px;
-    font-size: 17px;
-}
+    .Serviços h2 {
+        font-size: 3rem;
+        text-align: center;
+    }
 
-.sobre {
-    width: 50rem;
-    height: 77rem;
-    background-size: cover;
-}
+    .Serviços div p {
+        text-align: justify;
+        font-size: 2.3rem;
+    }
 
-.sobre h2 {
-    font-size: 40px;
-    margin-top: 30px;
-}
+    .Serviços a button {
+        width: 170px;
+        height: 3rem;
+        border-radius: 12px;
+        font-size: 17px;
+    }
 
-.sobre h3 {
-    font-size: 40px;
-}
- 
-.sobre h4 {
-    margin-top: -60px;
-    text-align: center;
-    font-size: 40px;
-}
+    .sobre {
+        width: 50rem;
+        height: 77rem;
+        background-size: cover;
+    }
 
-.sobre .div-pai {
-    width: 46rem;
-    height: 4em;
-}
+    .sobre h2 {
+        font-size: 40px;
+        margin-top: 30px;
+    }
 
-.sobre div p{
-    font-size: 22px;
-    width: 8.7em;
-}
+    .sobre h3 {
+        font-size: 40px;
+    }
 
-.footer {
-   width: 53rem;
-    padding: 1.5em;
-}
+    .sobre h4 {
+        margin-top: -60px;
+        text-align: center;
+        font-size: 40px;
+    }
 
-.footer img {
-    width: 90px;
-    height: 90px;
-}
+    .sobre .div-pai {
+        width: 46rem;
+        height: 4em;
+    }
 
-.footer nav {
-    margin-top: 5px;
-    padding: 10px;
-    margin-left: 90px;
-}
+    .sobre div p {
+        font-size: 22px;
+        width: 8.7em;
+    }
 
-.footer nav ul {
-    font-size: 16px;
-    margin-left: -80px;
-}
+    .footer {
+        width: 53rem;
+        padding: 1.5em;
+    }
 
-.footer div {
-    margin-right: 20px;
-}
+    .footer img {
+        width: 90px;
+        height: 90px;
+    }
 
-.footer div i {
-    font-size: 29px;
-}
+    .footer nav {
+        margin-top: 5px;
+        padding: 10px;
+        margin-left: 90px;
+    }
+
+    .footer nav ul {
+        font-size: 16px;
+        margin-left: -80px;
+    }
+
+    .footer div {
+        margin-right: 20px;
+    }
+
+    .footer div i {
+        font-size: 29px;
+    }
 }
 
 @media screen and (max-width: 991px) {
@@ -573,147 +588,154 @@ a button:hover {
     }
 
     .cabeçalho img {
-    width: 120px;
-    height: 120px;
-    padding: 7px;
-    margin-left: 30px;
+        width: 120px;
+        height: 120px;
+        padding: 7px;
+        margin-left: 30px;
     }
-    
-.cabeçalho h1 {
-    padding: 5px;
-    font-size: 30px;
-    margin-left: 140px;
-}
 
-.cabeçalho nav {
-    margin-top: 5px;
-    padding: 5px;
-    margin-left: 44px;
-}
+    .cabeçalho h1 {
+        padding: 5px;
+        font-size: 30px;
+        margin-left: 140px;
+    }
 
-.cabeçalho nav li {
-    margin-left: 30px;
-    font-size: 17px;
-}
+    .cabeçalho nav {
+        margin-top: 5px;
+        padding: 5px;
+        margin-left: 44px;
+    }
 
-.Imagem-Inicial {
-    padding: 22rem;
-    width: 20rem;
-    height: 5rem;
-}
+    .cabeçalho nav li {
+        margin-left: 30px;
+        font-size: 17px;
+    }
 
-.Quem-somos div {
-    width: 50rem;
-    height: 37rem;
-}
+    .Imagem-Inicial {
+        padding: 22rem;
+        width: 20rem;
+        height: 5rem;
+    }
 
-.Quem-somos h2 {
-    font-size: 3.5rem;
-    text-align: center;
-}
+    .conteudo {
+        padding: 22rem;
+        width: 20rem;
+        height: 5rem;
+        background-size: cover;
+    }
 
-.Quem-somos div p {
-    margin-top: 20px;
-    text-align: justify;
-    font-size: 2.5rem;
-}
+    .Quem-somos div {
+        width: 50rem;
+        height: 37rem;
+    }
 
-.Quem-somos a button {
-    width: 170px;
-    height: 3rem;
-    border-radius: 12px;
-    font-size: 17px;
-}
+    .Quem-somos h2 {
+        font-size: 3.5rem;
+        text-align: center;
+    }
 
-.line {
-    width: 80%;
-    margin-left: 190px;
-}
+    .Quem-somos div p {
+        margin-top: 20px;
+        text-align: justify;
+        font-size: 2.5rem;
+    }
 
-.Serviços div {
-    width: 50rem;
-    height: 120rem;
-}
+    .Quem-somos a button {
+        width: 170px;
+        height: 3rem;
+        border-radius: 12px;
+        font-size: 17px;
+    }
 
-.Serviços h2 {
-    font-size: 3.5rem;
-    text-align: center;
-}
+    .line {
+        width: 80%;
+        margin-left: 190px;
+    }
 
-.Serviços div p {
-    text-align: justify;
-    font-size: 2.7rem;
-    margin-top: 15px;
-}
+    .Serviços div {
+        width: 50rem;
+        height: 120rem;
+    }
 
-.Serviços a button {
-    width: 170px;
-    height: 3rem;
-    border-radius: 12px;
-    font-size: 17px;
-}
+    .Serviços h2 {
+        font-size: 3.5rem;
+        text-align: center;
+    }
 
-.sobre {
-    width: 58rem;
-    height: 72rem;
-    background-size: cover;
-}
+    .Serviços div p {
+        text-align: justify;
+        font-size: 2.7rem;
+        margin-top: 15px;
+    }
 
-.sobre h2 {
-    font-size: 45px;
-    margin-top: 30px;
-    margin-bottom: 15px;
-}
+    .Serviços a button {
+        width: 170px;
+        height: 3rem;
+        border-radius: 12px;
+        font-size: 17px;
+    }
 
-.sobre h3 {
-    font-size: 45px;
-    margin-bottom: 17px;
-}
- 
-.sobre h4 {
-    margin-top: -60px;
-    text-align: center;
-    font-size: 40px;
-}
+    .sobre {
+        width: 58rem;
+        height: 72rem;
+        background-size: cover;
+    }
 
-.sobre .div-pai {
-    width: 50rem;
-    height: 2em;
-}
+    .sobre h2 {
+        font-size: 45px;
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
 
-.sobre div p{
-    font-size: 25px;
-    width: 8.7em;
-}
+    .sobre h3 {
+        font-size: 45px;
+        margin-bottom: 17px;
+    }
 
-.footer {
-   width: 61rem;
-    padding: 1.5em;
-}
+    .sobre h4 {
+        margin-top: -60px;
+        text-align: center;
+        font-size: 40px;
+    }
 
-.footer img {
-    width: 120px;
-    height: 120px;
-}
+    .sobre .div-pai {
+        width: 50rem;
+        height: 2em;
+    }
 
-.footer nav {
-    margin-top: 5px;
-    padding: 10px;
-    margin-left: 90px;
-}
+    .sobre div p {
+        font-size: 25px;
+        width: 8.7em;
+    }
 
-.footer nav ul {
-    font-size: 22px;
-    margin-left: -80px;
-}
+    .footer {
+        width: 61rem;
+        padding: 1.5em;
+    }
 
-.footer div {
-    margin-right: 20px;
-}
+    .footer img {
+        width: 120px;
+        height: 120px;
+    }
 
-.footer div i {
-    font-size: 33px;
-}
+    .footer nav {
+        margin-top: 5px;
+        padding: 10px;
+        margin-left: 90px;
+    }
+
+    .footer nav ul {
+        font-size: 22px;
+        margin-left: -80px;
+    }
+
+    .footer div {
+        margin-right: 20px;
+    }
+
+    .footer div i {
+        font-size: 33px;
+    }
 }
 
 @media screen and (max-width: 1366px) {
@@ -723,153 +745,160 @@ a button:hover {
     }
 
     .cabeçalho img {
-    width: 170px;
-    height: 170px;
-    padding: 7px;
-    margin-left: 50px;
+        width: 170px;
+        height: 170px;
+        padding: 7px;
+        margin-left: 50px;
     }
-    
-.cabeçalho h1 {
-    padding: 5px;
-    font-size: 42px;
-    margin-left: 170px;
-}
 
-.cabeçalho nav {
-    margin-top: 5px;
-    padding: 5px;
-    margin-right: 20px;
-}
+    .cabeçalho h1 {
+        padding: 5px;
+        font-size: 42px;
+        margin-left: 170px;
+    }
 
-.cabeçalho nav li {
-    margin-left: 30px;
-    font-size: 25px;
-}
+    .cabeçalho nav {
+        margin-top: 5px;
+        padding: 5px;
+        margin-right: 20px;
+    }
 
-.Imagem-Inicial {
-    padding: 22rem;
-    width: 50rem;
-    height: 5rem;
-}
+    .cabeçalho nav li {
+        margin-left: 30px;
+        font-size: 25px;
+    }
 
-.Quem-somos div {
-    width: 80rem;
-    height: 40rem;
-}
+    .Imagem-Inicial {
+        padding: 22rem;
+        width: 50rem;
+        height: 5rem;
+    }
 
-.Quem-somos h2 {
-    font-size: 4.5rem;
-    text-align: center;
-    margin-top: 20px
-}
+    .conteudo{
+        padding: 22rem;
+        width: 50rem;
+        height: 5rem;
+        background-size: cover;
+    }
 
-.Quem-somos div p {
-    margin-top: 20px;
-    text-align: justify;
-    font-size: 4rem;
-}
+    .Quem-somos div {
+        width: 80rem;
+        height: 40rem;
+    }
 
-.Quem-somos a button {
-    width: 200px;
-    height: 4rem;
-    border-radius: 30px;
-    font-size: 22px;
-}
+    .Quem-somos h2 {
+        font-size: 4.5rem;
+        text-align: center;
+        margin-top: 20px
+    }
 
-.line {
-    width: 80%;
-    margin-left: 190px;
-}
+    .Quem-somos div p {
+        margin-top: 20px;
+        text-align: justify;
+        font-size: 4rem;
+    }
 
-.Serviços div {
-    width: 80rem;
-    height: 105rem;
-}
+    .Quem-somos a button {
+        width: 200px;
+        height: 4rem;
+        border-radius: 30px;
+        font-size: 22px;
+    }
 
-.Serviços h2 {
-    font-size: 4.5rem;
-    text-align: center;
-}
+    .line {
+        width: 80%;
+        margin-left: 190px;
+    }
 
-.Serviços div p {
-    text-align: justify;
-    font-size: 3.2rem;
-    margin-top: 25px;
-}
+    .Serviços div {
+        width: 80rem;
+        height: 105rem;
+    }
 
-.Serviços a button {
-    width: 200px;
-    height: 4rem;
-    border-radius: 30px;
-    font-size: 22px;
-}
+    .Serviços h2 {
+        font-size: 4.5rem;
+        text-align: center;
+    }
 
-.sobre {
-    width: 88rem;
-    height: 72rem;
-    background-size: cover;
-}
+    .Serviços div p {
+        text-align: justify;
+        font-size: 3.2rem;
+        margin-top: 25px;
+    }
 
-.sobre {
-    font-size: 35px;
-}
+    .Serviços a button {
+        width: 200px;
+        height: 4rem;
+        border-radius: 30px;
+        font-size: 22px;
+    }
 
-.sobre h2 {
-    font-size: 45px;
-    margin-top: 30px;
-    margin-bottom: 15px;
-}
+    .sobre {
+        width: 88rem;
+        height: 72rem;
+        background-size: cover;
+    }
 
-.sobre h3 {
-    font-size: 45px;
-    margin-bottom: 17px;
-}
- 
-.sobre h4 {
-    margin-top: -90px;
-    text-align: center;
-    font-size: 46px;
-}
+    .sobre {
+        font-size: 35px;
+    }
 
-.sobre .div-pai {
-    width: 70rem;
-    height: 2em;
-}
+    .sobre h2 {
+        font-size: 45px;
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
 
-.sobre div p{
-    margin-top: 25px;
-    font-size: 39px;
-    width: 8.7em;
-}
+    .sobre h3 {
+        font-size: 45px;
+        margin-bottom: 17px;
+    }
 
-.footer {
-   width: 91rem;
-    padding: 1.5em;
-}
+    .sobre h4 {
+        margin-top: -90px;
+        text-align: center;
+        font-size: 46px;
+    }
 
-.footer img {
-    width: 160px;
-    height: 160px;
-}
+    .sobre .div-pai {
+        width: 70rem;
+        height: 2em;
+    }
 
-.footer nav {
-    margin-top: 5px;
-    padding: 10px;
-    margin-left: 90px;
-}
+    .sobre div p {
+        margin-top: 25px;
+        font-size: 39px;
+        width: 8.7em;
+    }
 
-.footer nav ul {
-    font-size: 30px;
-    margin-left: -80px;
-}
+    .footer {
+        width: 91rem;
+        padding: 1.5em;
+    }
 
-.footer div {
-    margin-right: 40px;
-}
+    .footer img {
+        width: 160px;
+        height: 160px;
+    }
 
-.footer div i {
-    font-size: 55px;
-}
+    .footer nav {
+        margin-top: 5px;
+        padding: 10px;
+        margin-left: 90px;
+    }
+
+    .footer nav ul {
+        font-size: 30px;
+        margin-left: -80px;
+    }
+
+    .footer div {
+        margin-right: 40px;
+    }
+
+    .footer div i {
+        font-size: 55px;
+    }
 }
 
 @media screen and (min-width: 1367px) {
@@ -879,151 +908,151 @@ a button:hover {
     }
 
     .cabeçalho img {
-    width: 10.63rem;
-    height: 10.63rem;
-    padding: 7px;
-    margin-left: 50px;
+        width: 10.63rem;
+        height: 10.63rem;
+        padding: 7px;
+        margin-left: 50px;
     }
-    
-.cabeçalho h1 {
-    padding: 5px;
-    font-size: 2.7rem;
-    margin-left: 170px;
-}
 
-.cabeçalho nav {
-    margin-top: 5px;
-    padding: 5px;
-    margin-right: 20px;
-}
+    .cabeçalho h1 {
+        padding: 5px;
+        font-size: 2.7rem;
+        margin-left: 170px;
+    }
 
-.cabeçalho nav li {
-    margin-left: 30px;
-    font-size: 1.6rem;
-}
+    .cabeçalho nav {
+        margin-top: 5px;
+        padding: 5px;
+        margin-right: 20px;
+    }
 
-.Imagem-Inicial {
-    padding: 22rem;
-    width: 50rem;
-    height: 5rem;
-}
+    .cabeçalho nav li {
+        margin-left: 30px;
+        font-size: 1.6rem;
+    }
 
-.Quem-somos div {
-    width: 80rem;
-    height: 40rem;
-}
+    .Imagem-Inicial {
+        padding: 22rem;
+        width: 50rem;
+        height: 5rem;
+    }
 
-.Quem-somos h2 {
-    font-size: 4.5rem;
-    text-align: center;
-    margin-top: 20px
-}
+    .Quem-somos div {
+        width: 80rem;
+        height: 40rem;
+    }
 
-.Quem-somos div p {
-    margin-top: 25px;
-    text-align: justify;
-    font-size: 4rem;
-}
+    .Quem-somos h2 {
+        font-size: 4.5rem;
+        text-align: center;
+        margin-top: 20px
+    }
 
-.Quem-somos a button {
-    width: 200px;
-    height: 4rem;
-    border-radius: 30px;
-    font-size: 22px;
-}
+    .Quem-somos div p {
+        margin-top: 25px;
+        text-align: justify;
+        font-size: 4rem;
+    }
 
-.line {
-    width: 80%;
-    margin-left: 190px;
-}
+    .Quem-somos a button {
+        width: 200px;
+        height: 4rem;
+        border-radius: 30px;
+        font-size: 22px;
+    }
 
-.Serviços div {
-    width: 80rem;
-    height: 105rem;
-}
+    .line {
+        width: 80%;
+        margin-left: 190px;
+    }
 
-.Serviços h2 {
-    font-size: 4.5rem;
-    text-align: center;
-}
+    .Serviços div {
+        width: 80rem;
+        height: 105rem;
+    }
 
-.Serviços div p {
-    text-align: justify;
-    font-size: 3.2rem;
-    margin-top: 25px;
-}
+    .Serviços h2 {
+        font-size: 4.5rem;
+        text-align: center;
+    }
 
-.Serviços a button {
-    width: 200px;
-    height: 4rem;
-    border-radius: 30px;
-    font-size: 22px;
-}
+    .Serviços div p {
+        text-align: justify;
+        font-size: 3.2rem;
+        margin-top: 25px;
+    }
 
-.sobre {
-    width: 88rem;
-    height: 72rem;
-    background-size: cover;
-}
+    .Serviços a button {
+        width: 200px;
+        height: 4rem;
+        border-radius: 30px;
+        font-size: 22px;
+    }
 
-.sobre {
-    font-size: 35px;
-}
+    .sobre {
+        width: 88rem;
+        height: 72rem;
+        background-size: cover;
+    }
 
-.sobre h2 {
-    font-size: 45px;
-    margin-top: 30px;
-    margin-bottom: 15px;
-}
+    .sobre {
+        font-size: 35px;
+    }
 
-.sobre h3 {
-    font-size: 45px;
-    margin-bottom: 17px;
-}
- 
-.sobre h4 {
-    margin-top: -90px;
-    text-align: center;
-    font-size: 46px;
-}
+    .sobre h2 {
+        font-size: 45px;
+        margin-top: 30px;
+        margin-bottom: 15px;
+    }
 
-.sobre .div-pai {
-    width: 70rem;
-    height: 2em;
-}
+    .sobre h3 {
+        font-size: 45px;
+        margin-bottom: 17px;
+    }
 
-.sobre div p{
-    margin-top: 25px;
-    font-size: 39px;
-    width: 8.7em;
-}
+    .sobre h4 {
+        margin-top: -90px;
+        text-align: center;
+        font-size: 46px;
+    }
 
-.footer {
-   width: 91rem;
-    padding: 1.5em;
-}
+    .sobre .div-pai {
+        width: 70rem;
+        height: 2em;
+    }
 
-.footer img {
-    width: 160px;
-    height: 160px;
-}
+    .sobre div p {
+        margin-top: 25px;
+        font-size: 39px;
+        width: 8.7em;
+    }
 
-.footer nav {
-    margin-top: 5px;
-    padding: 10px;
-    margin-left: 90px;
-}
+    .footer {
+        width: 91rem;
+        padding: 1.5em;
+    }
 
-.footer nav ul {
-    font-size: 30px;
-    margin-left: -80px;
-}
+    .footer img {
+        width: 160px;
+        height: 160px;
+    }
 
-.footer div {
-    margin-right: 40px;
-}
+    .footer nav {
+        margin-top: 5px;
+        padding: 10px;
+        margin-left: 90px;
+    }
 
-.footer div i {
-    font-size: 55px;
-}
+    .footer nav ul {
+        font-size: 30px;
+        margin-left: -80px;
+    }
+
+    .footer div {
+        margin-right: 40px;
+    }
+
+    .footer div i {
+        font-size: 55px;
+    }
 }
