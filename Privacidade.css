@@ -306,7 +306,7 @@ p {
     }
 
     
-@media screen and (min-width: 991px ) {
+@media screen and (max-width: 991px ) {
     
     .cabeçalho {
         padding: 1rem;
