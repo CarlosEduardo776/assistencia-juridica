@@ -627,13 +627,6 @@ a button:hover {
         height: 5rem;
     }
 
-    /* .conteudo { */
-        /* padding: 22rem; */
-        /* width: 20rem; */
-        /* height: 5rem; */
-        /* background-size: cover; */
-    /* } */
-
     .Quem-somos div {
         width: 50rem;
         height: 37rem;
@@ -650,16 +643,9 @@ a button:hover {
         font-size: 2.5rem;
     }
 
-    .Quem-somos a button {
-        width: 170px;
-        height: 3rem;
-        border-radius: 12px;
-        font-size: 17px;
-    }
-
-    .line {
-        width: 80%;
-        margin-left: 190px;
+    #linha .line {
+        width: 90%;
+        margin-left: 270px;
     }
 
     .Serviços div {
