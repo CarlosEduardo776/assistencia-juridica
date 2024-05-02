@@ -69,14 +69,6 @@
     background-size: cover;
 }
 
-/* .conteudo { */
-    /* padding: 3rem; */
-    /* background-image: url(imagens/banner-textura.jpg); */
-    /* background-position: center; */
-    /* background-repeat: no-repeat; */
-    /* background-size: cover; */
-/* } */
-
 .sobre {
     padding: 10rem;
     background: linear-gradient(180deg, rgba(186, 24, 77, 0.8295693277310925) 33%, rgba(69, 11, 30, 1) 100%), url(imagens/Fundo-Formulário.png);
@@ -94,7 +86,7 @@
     font-size: 1.5em;
     line-height: 70px;
     text-align: justify;
-    height: 100rem;
+    height: 45rem;
 }
 
 .Quem-somos h2 {
@@ -105,19 +97,6 @@
     color: #360616;
     font-weight: 900;
 }
-/* 
-.Quem-somos a button {
-    width: 150px;
-    height: 2rem;
-    border-radius: 12px;
-    font-family: 'Times New Roman', Times, serif;
-    cursor: pointer;
-}
-
-.Quem-somos a button:hover {
-    color: #750b2f;
-    transition: 0.9s;
-} */
 
 .line {
     width: 70%;
@@ -155,7 +134,7 @@ a button:hover {
 
 .sobre {
     padding: 3rem;
-    height: 42em;
+    height: 45em;
     background: linear-gradient(180deg, rgba(223, 228, 161, 0.83) 20%, rgba(236, 234, 137, 0.551) 100%), url(imagens/banner\ 01.jpg);
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -186,7 +165,7 @@ a button:hover {
 .sobre .div-pai p {
     padding: 1.5rem;
     display: flex;
-    font-size: 2.1rem;
+    font-size: 1.5rem;
 }
 
 .sobre div {
@@ -304,13 +283,7 @@ a button:hover {
         height: 5rem;
     }
 
-    /* .conteudo { */
-        /* padding: 22rem; */
-        /* width: 7rem; */
-        /* height: 5rem; */
-        /* background-size: cover; */
-    /* } */
-
+   
     .Quem-somos {
         font-size: 1.6rem;
         height: 100rem;
