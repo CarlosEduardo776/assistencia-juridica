@@ -740,7 +740,7 @@ a button:hover {
     }
 }
 
-@media screen and (max-width: 1166px) {
+@media screen and (max-width: 1366px) {
     .cabeçalho {
         padding: 2rem;
         width: 90em;
@@ -775,13 +775,6 @@ a button:hover {
         width: 50rem;
         height: 5rem;
     }
-
-    /* .conteudo{ */
-        /* padding: 22rem; */
-        /* width: 50rem; */
-        /* height: 5rem; */
-        /* background-size: cover; */
-    /* } */
 
     .Quem-somos div {
         width: 80rem;
@@ -845,6 +838,7 @@ a button:hover {
         width: 88rem;
         height: 72rem;
         background-size: cover;
+        background-position: center;
     }
 
     .sobre {
