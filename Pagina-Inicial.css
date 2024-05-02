@@ -330,13 +330,6 @@ a button:hover {
         text-align: center;
         font-size: 2.3rem;
     }
-/* 
-    .Quem-somos a button {
-        width: 170px;
-        height: 190rem;
-        border-radius: 12px;
-        font-size: 17px;
-    } */
 
     #linha .line {
         width: 50em;
@@ -472,12 +465,10 @@ a button:hover {
         height: 5rem;
     }
 
-    /* .conteudo { */
-        /* padding: 22rem; */
-        /* width: 12rem; */
-        /* height: 5rem; */
-        /* background-size: cover; */
-    /* } */
+    .Quem-somos {
+        font-size: 1.6rem;
+        height: 100rem;
+    }
 
     .Quem-somos div {
         width: 45rem;
@@ -631,13 +622,6 @@ a button:hover {
         height: 5rem;
     }
 
-    /* .conteudo { */
-        /* padding: 22rem; */
-        /* width: 20rem; */
-        /* height: 5rem; */
-        /* background-size: cover; */
-    /* } */
-
     .Quem-somos div {
         width: 50rem;
         height: 37rem;
@@ -651,7 +635,7 @@ a button:hover {
     .Quem-somos div p {
         margin-top: 20px;
         text-align: justify;
-        font-size: 2.5rem;
+        font-size: 2.7rem;
     }
 
     .Quem-somos a button {
@@ -678,7 +662,7 @@ a button:hover {
 
     .Serviços div p {
         text-align: justify;
-        font-size: 2.5rem;
+        font-size: 2.7rem;
         margin-top: 15px;
     }
 
@@ -794,13 +778,6 @@ a button:hover {
         height: 5rem;
     }
 
-    /* .conteudo{ */
-        /* padding: 22rem; */
-        /* width: 50rem; */
-        /* height: 5rem; */
-        /* background-size: cover; */
-    /* } */
-
     .Quem-somos div {
         width: 80rem;
         height: 40rem;
@@ -815,7 +792,7 @@ a button:hover {
     .Quem-somos div p {
         margin-top: 20px;
         text-align: justify;
-        font-size: 3.2rem;
+        font-size: 4rem;
     }
 
     .Quem-somos a button {
@@ -977,7 +954,7 @@ a button:hover {
     .Quem-somos div p {
         margin-top: 25px;
         text-align: justify;
-        font-size: 3.2rem;
+        font-size: 3.7rem;
     }
 
     .Quem-somos a button {
